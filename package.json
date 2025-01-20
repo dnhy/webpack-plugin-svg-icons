@@ -4,8 +4,12 @@
   "description": "This is a plugin that is used by webpack to bundle svg static assets globally when compiling a project.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.31.0"
+  }
 }
