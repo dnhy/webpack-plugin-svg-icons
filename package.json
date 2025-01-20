@@ -1,0 +1,11 @@
+{
+  "name": "webpack-plugin-svg-icons",
+  "version": "1.0.0",
+  "description": "This is a plugin that is used by webpack to bundle svg static assets globally when compiling a project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
